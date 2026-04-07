@@ -1,4 +1,4 @@
-# NewNucleur
+# NewNuclear
 
 AI-powered nuclear engineering document assistant. Ask questions about your uploaded PDFs — DoE Fundamentals Handbooks, NRC ADAMS documents, plant procedures, or any technical reference — and get answers grounded exclusively in your documents, with full source citations (document name + page number).
 
